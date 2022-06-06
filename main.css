@@ -1,18 +1,29 @@
-.headers {
-    width: 1000px;   
+.divas1{
+ margin-top: 150px;
+
 }
-.mains {
- width: 100%;
- margin-right: 20%;
- display: flex;
-}
-.logos {
+.divaspirmas {
     width: 20%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    float: left;
+    
+    
+}
+.divasantras {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.divastrecias {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+}
+.divasketvirtas {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
 }
 .containerh1 {
-    color: #e05e46;
+    color: orange;
 }
